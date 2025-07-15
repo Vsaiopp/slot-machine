@@ -14,12 +14,6 @@ This is a simple command-line **slot machine game** built using Python. It's par
 - Modular structure using functions (`spin_row()`, `print_row()`, `payout()`)
 
 ---
-
-## 🚧 Current Status
-
-✅ Setup structure with user input and balance logic  
-🛠️ Working on: Spinning logic, symbol matching, and payout system
-
 ---
 
 ## 🚀 How to Run
